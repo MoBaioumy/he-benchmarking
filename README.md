@@ -1,2 +1,2 @@
-# he-benchmarking
+# HE-benchmarking
 Benchmarking basic Homomorphic encryption schemes
